@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "jwtKey": "nksdf54dcdoprz",
+  "mongoUri": "mongodb+srv://mowgli77:bagira88@cluster0.j44n2.mongodb.net/mern",
+  "baseUrl": "http://localhost:5000"
+}
